@@ -21,7 +21,7 @@ public class Finished : MonoBehaviour
 
     private int finishedChests;
     private int chestsToFinish = 4;
-    private Vector3 cameraPosition1 = new Vector3(-270, 430, -8);
+    private Vector3 cameraPosition1 = new Vector3(-300, 500, 0);
     private Quaternion cameraRotation1 = Quaternion.Euler(90, 0, -180);
 
     private void Start()

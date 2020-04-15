@@ -39,8 +39,8 @@ public class Chest : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K))
-            Touched();
+        // if (Input.GetKeyDown(KeyCode.K))
+            // Touched();
         if (open)
         {
             timeLeft -= Time.deltaTime;
