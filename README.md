@@ -11,7 +11,9 @@ The repository contains the code for my implementation of the game about my stor
 
 Downloads can be found on the releases page [here](https://github.com/JoachimVeulemans/pxl-italent-game-2020/releases) or by type:
 
-* Android APK: [here]()
-* Android AAB: [here]()
-* Web GL: [here]()
-* Windows EXE: [here]()
+* Android APK: [here](https://github.com/JoachimVeulemans/pxl-italent-game-2020/releases/download/v3.0/android.apk)
+* Android AAB: [here](https://github.com/JoachimVeulemans/pxl-italent-game-2020/releases/download/v3.0/android.aab)
+* Web GL: [here](https://github.com/JoachimVeulemans/pxl-italent-game-2020/releases/download/v3.0/webgl.zip)
+* Windows EXE: [here](https://github.com/JoachimVeulemans/pxl-italent-game-2020/releases/download/v3.0/windows.zip)
+* Linux x86_64: [here](https://github.com/JoachimVeulemans/pxl-italent-game-2020/releases/download/v3.0/linux.zip)
+* Mac OS X APP: [here](https://github.com/JoachimVeulemans/pxl-italent-game-2020/releases/download/v3.0/macosx.app.zip)
