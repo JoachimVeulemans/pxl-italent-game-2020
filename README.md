@@ -4,7 +4,7 @@ The repository contains the code for my implementation of the game about my stor
 
 ## Demo
 
-* A web-based demo is available to play on [joachimveulemans.be/italent](https://joachimveulemans.be/italent)
+* A web-based demo is available to play on [joachimveulemans.be/italent/game](https://joachimveulemans.be/italent/game)
 * An Android-based demo is available to play on [Google Play](https://play.google.com/store/apps/details?id=com.JoachimVeulemans.PXLiTalentJoachim)
 
 ## Download
